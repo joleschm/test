@@ -1,29 +1,16 @@
 # Digital Tools for Finance Project
 
-Foobar is a Python library for dealing with word pluralization.
+Demo group work for testing / demonstrating collaboration in a research project 
 
 ## About the Project
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+This project 
 
-```bash
-pip install foobar
-```
 
-## Usage
+## Objective
 
-```python
-import foobar
+The objective of this project is to aquire the competences needed to collaborate efficiently in a modern research project. 
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
 ## Contact
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
