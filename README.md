@@ -12,6 +12,6 @@ The course's objective is to aquire the competences needed to collaborate effici
 ## Contact
 Feel free to contact us if any questions arise:
 
-egemen.erdogdu@uzh.ch
-jonaslenz.schmidiger@uzh.ch
-mathias.ruoss@uzh.ch
+egemen.erdogdu@uzh.ch \
+jonaslenz.schmidiger@uzh.ch \
+mathias.ruoss@uzh.ch 
